@@ -1,6 +1,6 @@
 Calculadora de Gorjeta
 Esta é uma aplicação web simples e intuitiva para calcular gorjetas e o valor total da conta, desenvolvida com HTML, CSS e JavaScript. O projeto é ideal para quem está começando no desenvolvimento web e deseja praticar os fundamentos dessas três tecnologias.
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
 
 Funcionalidades
 Entrada de valor: O usuário pode inserir o valor da conta.
@@ -10,7 +10,7 @@ Seleção de gorjeta: É possível escolher a porcentagem de gorjeta (10%, 15% o
 Cálculo automático: Ao clicar no botão, a gorjeta e o valor total são calculados e exibidos na tela.
 
 Design responsivo: A interface é simples e se adapta a diferentes tamanhos de tela.
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////
 Tecnologias Utilizadas
 
 HTML: Para a estrutura e organização do conteúdo.
